@@ -1,0 +1,2 @@
+# CertificateGenerationTool
+Unity製のiOSアプリを開発する際にUnity Cloud Buildをする時に必要となる証明書を発行する為のOpenSSLコマンド群をバッチファイルにしました。
