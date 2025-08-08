@@ -2,6 +2,8 @@
 
 Unity製のiOSアプリを開発する際にUnity Cloud Buildをする時に必要となる証明書を発行する為のOpenSSLコマンド群をバッチファイルにしました。
 
+[[ラボブログ] Windows環境のみでiOSアプリをビルドしてTestFlightに載せる方法](https://labs.1-10.com/wp-admin/post.php?post=5563&action=edit)
+
 ## STEP1  
 以下からWindows用のOpenSSLをインストールしてください。  
 https://slproweb.com/products/Win32OpenSSL.html
